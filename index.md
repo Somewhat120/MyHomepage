@@ -19,7 +19,7 @@ I am interested in developing efficient and reliable models for health improveme
 ### Personalized Diet Recommendation for Community-dweling Elders <br/>
 We expect to develop an deploy a recommendation system to provide older population with alternatives of packaged meals, which could take their health conditions, diet preference, and socio-economic status into account.<br/>
 
-<img src="https://github.com/Somewhat120/Science-for-Humanity/blob/main/program1.jpg"/><br/>
+<img src="https://github.com/Somewhat120/Science-for-Humanity/raw/main/program1.jpg"/><br/>
 
 
 ### Post-stroke UTI Prediction in Immobile Patients <br/>
