@@ -32,17 +32,15 @@ We designed and implemented a transtheoretical-model-based behavior change inter
 1. **Prediction of Poststroke Urinary Tract Infection Risk in Immobile Patients Using Machine Learning: an observational study**<br/> 
 C. Zhu\*, **Z. Xu**\*, Y. Gu, S. Zheng, X. Sun, J. Cao, J. Li, and X. Wu <br/>
 *Journal of Hospital Infection* (* equal contribution) |  [Paper](https://doi.org/10.1016/j.jhin.2022.01.002) <br/>
-3. **COVID term: a bilingual terminology for COVID-19**<br/> 
+2. **COVID term: a bilingual terminology for COVID-19**<br/> 
 H. Ma\*, L. Shen\*, H. Sun\*, **Z. Xu**, L. Hou, S. Wu, A. Fang, J. Li, and Q. Qian <br/>
 *BMC Med Inform Decis Mak* (* equal contribution) | [Paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01593-9)<br/>
 3. **A Mobile-Based Intervention for Dietary Behavior and Physical Activity Change in Individuals at High Risk for Type 2 Diabetes Mellitus: Randomized Controlled Trial**<br/>
 **Z. Xu**, J. Geng, S. Zhang, K. Zhang, L. Yang, J. Li, and J. Li<br/> 
 *JMIR mHealth and uHealth* | [Paper](https://mhealth.jmir.org/2020/11/e19869/) <br/>
-
 4. **Developing a Siamese Network for UTIs Risk Prediction in Immobile Patients**<br/>  
 **Z. Xu**, C. Zhu, Y. Gu, S. Zheng, X. Sun, J. Cao, X. Wu, and J. Li<br/>
 *MedInfo* 2021 | [Oral Presentation](https://www.youtube.com/watch?v=XqlWfoBhUQw)<br/>  
-
 5. **Databases for Precision Medicine** <br/>  
 L. Yang, **Z. Xu**, and J. Li  <br/> 
 *Q&A for Precision Medicine, Tianjin Science and Technology Press* | Charpter  <br/>  
