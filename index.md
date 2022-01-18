@@ -19,14 +19,17 @@ I am interested in developing efficient and reliable models for health improveme
 ### Recent Projects
 **· Personalized Diet Recommendation for Community-dweling Elders**<br/>
 We expect to develop an deploy a recommendation system to provide older population with alternatives of packaged meals, which could take their health conditions, diet preference, and socio-economic status into account.<br/>
+
 ![image](https://github.com/Somewhat120/Science-for-Humanity/blob/main/%E7%BB%98%E5%9B%BE2.png)
 
 **· Post-stroke UTI Prediction in Immobile Patients**<br/>
 We integrated 6 machine learning algorithms to generate a UTI prediction model for immobile hospitalized stroke patients. The result of SHAP analysis alined well with clinical evidence and literature review, which adds credits to the interpretability and reliablity of the prediction model.<br/>
+
 ![image](https://github.com/Somewhat120/Science-for-Humanity/blob/main/fig2.jpg)
 
 **· Health behavior improvement with mHealth interventions**<br/>
 We designed and implemented a transtheoretical-model-based behavior change intervention strategy for high-risk groups of diabetes delivered by a mobile application in a 6-month RCT.<br/>
+
 ![image](https://github.com/Somewhat120/Science-for-Humanity/blob/main/fig1.png)
 
 ### Publications (Selected)
