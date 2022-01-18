@@ -1,4 +1,4 @@
-# Science for Humanity
+# Science for Humanity <br/>
 # About me <br/>
 
 <font size=3>I am a master candidate of medical informatics at Peking Union Medical College advised by [Prof. Jiao Li](https://www.researchgate.net/profile/Jiao-Li-56), where I work on mHealth innovations for chronic disease management, clinical risk prediction, and personalized diet management for older population.  I obtained my bachelor degree at school of nursing, PUMC.  I had one-year clinical experience from 2018 to 2019.</font><br/><font size=3><center>**[Google Scholar](https://scholar.google.com/citations?user=aHrqWiEAAAAJ&hl=zh-CN)** /  **[Email](xu.zidu@imicams.ac.cn)**  </center></font> 
