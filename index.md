@@ -1,17 +1,16 @@
-# Science For Humanity
 ## About me
 I am a master candidate of medical informatics at Peking Union Medical College advised by [Prof. Jiao Li](https://www.researchgate.net/profile/Jiao-Li-56), where I work on mHealth innovations for chronic disease management, clinical risk prediction, and personalized diet management for older population.  I obtained my bachelor degree at school of nursing, PUMC.  I had one-year clinical experience from 2018 to 2019.<br/>
 **[Google Scholar](https://scholar.google.com/citations?user=aHrqWiEAAAAJ&hl=zh-CN)** /  **[Email](xu.zidu@imicams.ac.cn)**
 
 
 ## News
- - 01/2022, one paper has been accepted by *Journal of Hospital Infection*.<br/>
-
- - 10/2021, I gave an presentation about UTI prediction at *MedInfo 2021*.<br/>
-
- - 08/2021, one paper has been published in *BMC Med Inform Decis Mak*.<br/>
-
- - 11/2020, one paper has been published in *JMIR Mhealth Uhealth*.<br/>
+ > 01/2022, one paper has been accepted by *Journal of Hospital Infection*.<br/>
+ >
+ > 10/2021, I gave an presentation about UTI prediction at *MedInfo 2021*.<br/>
+ >
+ > 08/2021, one paper has been published in *BMC Med Inform Decis Mak*.<br/>
+ >
+ > 11/2020, one paper has been published in *JMIR Mhealth Uhealth*.<br/>
 
 ## Research
 I am interested in developing efficient and reliable models for health improvement, which could benefit both healthcare receivers and providers. I work on health issues among vulnerable populations and possible solutions.
