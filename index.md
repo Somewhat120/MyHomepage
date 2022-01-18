@@ -1,9 +1,9 @@
-## About me
+# About me
 I am a master candidate of medical informatics at Peking Union Medical College advised by [Prof. Jiao Li](https://www.researchgate.net/profile/Jiao-Li-56), where I work on mHealth innovations for chronic disease management, clinical risk prediction, and personalized diet management for older population.  I obtained my bachelor degree at school of nursing, PUMC.  I had one-year clinical experience from 2018 to 2019.<br/>
 **[Google Scholar](https://scholar.google.com/citations?user=aHrqWiEAAAAJ&hl=zh-CN)** /  **[Email](xu.zidu@imicams.ac.cn)**
 
 
-## News
+# News
  > 01/2022, one paper has been accepted by *Journal of Hospital Infection*.<br/>
  >
  > 10/2021, I gave an presentation about UTI prediction at *MedInfo 2021*.<br/>
@@ -12,26 +12,26 @@ I am a master candidate of medical informatics at Peking Union Medical College a
  >
  > 11/2020, one paper has been published in *JMIR Mhealth Uhealth*.<br/>
 
-## Research
+# Research
 I am interested in developing efficient and reliable models for health improvement, which could benefit both healthcare receivers and providers. I work on health issues among vulnerable populations and possible solutions.
 
-### Recent Projects
-**· Personalized Diet Recommendation for Community-dweling Elders**<br/>
+## Recent Projects
+### Personalized Diet Recommendation for Community-dweling Elders <br/>
 We expect to develop an deploy a recommendation system to provide older population with alternatives of packaged meals, which could take their health conditions, diet preference, and socio-economic status into account.<br/>
 
-![image](https://github.com/Somewhat120/Science-for-Humanity/blob/main/%E7%BB%98%E5%9B%BE2.png)
+![image](https://github.com/Somewhat120/Science-for-Humanity/raw/main/%E7%BB%98%E5%9B%BE2.png)
 
-**· Post-stroke UTI Prediction in Immobile Patients**<br/>
+### Post-stroke UTI Prediction in Immobile Patients <br/>
 We integrated 6 machine learning algorithms to generate a UTI prediction model for immobile hospitalized stroke patients. The result of SHAP analysis alined well with clinical evidence and literature review, which adds credits to the interpretability and reliablity of the prediction model.<br/>
 
-![image](https://github.com/Somewhat120/Science-for-Humanity/blob/main/fig2.jpg)
+![image](https://github.com/Somewhat120/Science-for-Humanity/raw/main/fig2.jpg)
 
-**· Health behavior improvement with mHealth interventions**<br/>
+### Health behavior improvement with mHealth interventions <br/>
 We designed and implemented a transtheoretical-model-based behavior change intervention strategy for high-risk groups of diabetes delivered by a mobile application in a 6-month RCT.<br/>
 
-![image](https://github.com/Somewhat120/Science-for-Humanity/blob/main/fig1.png)
+![image](https://github.com/Somewhat120/Science-for-Humanity/raw/main/fig1.png)
 
-### Publications (Selected)
+## Publications (Selected)
 1. **Prediction of Poststroke Urinary Tract Infection Risk in Immobile Patients Using Machine Learning: an observational study**<br/> 
 C. Zhu\*, **Z. Xu**\*, Y. Gu, S. Zheng, X. Sun, J. Cao, J. Li, and X. Wu <br/>
 *Journal of Hospital Infection* (* equal contribution) |  [Paper](https://doi.org/10.1016/j.jhin.2022.01.002) <br/>
@@ -53,10 +53,10 @@ L. Yang, **Z. Xu**, and J. Li <br/>
 *Q&A for Precision Medicine, Tianjin Science and Technology Press* | Charpter <br/>  
 
 
-## Services
+# Services
 **Journal Reviewer of [JCMM](https://onlinelibrary.wiley.com/journal/15824934)** <front><br/>
 
-## Awards
+# Awards
 - 2021, **National Scholarship for Graduate Students**, Ministry of Education of China
 - 2020, **First Class Prize of Student Scholarship**, Peking Union Medical College
 - 2020, **Award for Academic Excellents**, Peking Union Medical College
